@@ -21,8 +21,9 @@
 
 | Link | GitHub |
 | ---- | ------ |
-| [Manjaro Xfce 探索筆記](https://samwhelp.github.io/manjaro-xfce-adjustment/) | [GitHub](https://github.com/samwhelp/manjaro-xfce-adjustment) |
-| [Manjaro Kde Plasma 探索筆記](https://samwhelp.github.io/manjaro-kde-plasma-adjustment/) | [GitHub](https://github.com/samwhelp/manjaro-kde-plasma-adjustment) |
+| [Manjaro Xfce Adjustment](https://samwhelp.github.io/manjaro-xfce-adjustment/) | [GitHub](https://github.com/samwhelp/manjaro-xfce-adjustment) |
+| [Manjaro Kde Plasma Adjustment](https://samwhelp.github.io/manjaro-kde-plasma-adjustment/) | [GitHub](https://github.com/samwhelp/manjaro-kde-plasma-adjustment) |
+| [Manjaro Gnome Shell Adjustment](https://samwhelp.github.io/manjaro-gnome-shell-adjustment/) | [GitHub](https://github.com/samwhelp/manjaro-gnome-shell-adjustment) |
 
 
 
