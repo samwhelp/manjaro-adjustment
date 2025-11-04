@@ -7,8 +7,8 @@ exec tail -n +3 $0
 
 
 
-menuentry "Manjaro ISO / Kde Plasma" --class Manjaro {
-	set iso_file="/opt/iso/manjaro/latest/manjaro-kde-25.0.0-250414-linux612.iso"
+menuentry "Manjaro ISO / Kde Plasma" --class manjaro {
+	set iso_file="/opt/iso/manjaro/latest/manjaro-kde-25.0.10-251013-linux612.iso"
 	search --set=iso_partition --no-floppy --file $iso_file
 	probe --set=iso_partition_uuid --fs-uuid $iso_partition
 	set img_dev="/dev/disk/by-uuid/$iso_partition_uuid"
@@ -24,8 +24,8 @@ menuentry "Manjaro ISO / Kde Plasma" --class Manjaro {
 
 
 
-menuentry "Manjaro ISO / Xfce" --class Manjaro {
-	set iso_file="/opt/iso/manjaro/latest/manjaro-xfce-25.0.0-250414-linux612.iso"
+menuentry "Manjaro ISO / Xfce" --class manjaro {
+	set iso_file="/opt/iso/manjaro/latest/manjaro-xfce-25.0.10-251013-linux612.iso"
 	search --set=iso_partition --no-floppy --file $iso_file
 	probe --set=iso_partition_uuid --fs-uuid $iso_partition
 	set img_dev="/dev/disk/by-uuid/$iso_partition_uuid"
@@ -41,8 +41,8 @@ menuentry "Manjaro ISO / Xfce" --class Manjaro {
 
 
 
-menuentry "Manjaro ISO / Gnome Shell" --class Manjaro {
-	set iso_file="/opt/iso/manjaro/latest/manjaro-gnome-25.0.0-250414-linux612.iso"
+menuentry "Manjaro ISO / Gnome Shell" --class manjaro {
+	set iso_file="/opt/iso/manjaro/latest/manjaro-gnome-25.0.10-251013-linux612.iso"
 	search --set=iso_partition --no-floppy --file $iso_file
 	probe --set=iso_partition_uuid --fs-uuid $iso_partition
 	set img_dev="/dev/disk/by-uuid/$iso_partition_uuid"

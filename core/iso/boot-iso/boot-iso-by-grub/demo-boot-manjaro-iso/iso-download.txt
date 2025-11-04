@@ -1,20 +1,20 @@
-https://download.manjaro.org/kde/25.0.0/manjaro-kde-25.0.0-250414-linux612.iso
-https://download.manjaro.org/xfce/25.0.0/manjaro-xfce-25.0.0-250414-linux612.iso
-https://download.manjaro.org/gnome/25.0.0/manjaro-gnome-25.0.0-250414-linux612.iso
+https://download.manjaro.org/kde/25.0.10/manjaro-kde-25.0.10-251013-linux612.iso
+https://download.manjaro.org/xfce/25.0.10/manjaro-xfce-25.0.10-251013-linux612.iso
+https://download.manjaro.org/gnome/25.0.10/manjaro-gnome-25.0.10-251013-linux612.iso
 
 
 
 
-https://download.manjaro.org/kde/25.0.0/manjaro-kde-25.0.0-250414-linux612.iso.sha256
-https://download.manjaro.org/kde/25.0.0/manjaro-kde-25.0.0-250414-linux612.iso.sig
-https://download.manjaro.org/kde/25.0.0/manjaro-kde-25.0.0-250414-linux612.iso.torrent
+https://download.manjaro.org/kde/25.0.10/manjaro-kde-25.0.10-251013-linux612.iso.sha256
+https://download.manjaro.org/kde/25.0.10/manjaro-kde-25.0.10-251013-linux612.iso.sig
+https://download.manjaro.org/kde/25.0.10/manjaro-kde-25.0.10-251013-linux612.iso.torrent
 
 
-https://download.manjaro.org/xfce/25.0.0/manjaro-xfce-25.0.0-250414-linux612.iso.sha256
-https://download.manjaro.org/xfce/25.0.0/manjaro-xfce-25.0.0-250414-linux612.iso.sig
-https://download.manjaro.org/xfce/25.0.0/manjaro-xfce-25.0.0-250414-linux612.iso.torrent
+https://download.manjaro.org/xfce/25.0.10/manjaro-xfce-25.0.10-251013-linux612.iso.sha256
+https://download.manjaro.org/xfce/25.0.10/manjaro-xfce-25.0.10-251013-linux612.iso.sig
+https://download.manjaro.org/xfce/25.0.10/manjaro-xfce-25.0.10-251013-linux612.iso.torrent
 
 
-https://download.manjaro.org/gnome/25.0.0/manjaro-gnome-25.0.0-250414-linux612.iso.sha256
-https://download.manjaro.org/gnome/25.0.0/manjaro-gnome-25.0.0-250414-linux612.iso.sig
-https://download.manjaro.org/gnome/25.0.0/manjaro-gnome-25.0.0-250414-linux612.iso.torrent
+https://download.manjaro.org/gnome/25.0.10/manjaro-gnome-25.0.10-251013-linux612.iso.sha256
+https://download.manjaro.org/gnome/25.0.10/manjaro-gnome-25.0.10-251013-linux612.iso.sig
+https://download.manjaro.org/gnome/25.0.10/manjaro-gnome-25.0.10-251013-linux612.iso.torrent
